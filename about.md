@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a proud mother of 3 wonderful girls and the wife to the love of my life. I have had a love of photography ever since I can remember. (It runs in the family)
+I'm a Winnipeg based photographer specializing in family, children and newborn photography. I love to capture life's precious moments and I would be honoured to capture some of you and your family's special moments too! I look forward to working with you!
