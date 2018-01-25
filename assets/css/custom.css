@@ -71,3 +71,8 @@ textarea.form-control {
     background-color: #e6e6e6;
     border-color: #8c8c8c;
 }
+
+img {
+  width: 100%;
+  height: auto;
+}
